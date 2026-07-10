@@ -15,14 +15,14 @@ const INFORME_DATA = {
   fase: "Montaje coreografico y fortalecimiento tecnico",
 
   indicadores: {
-    sesionesProgramadas: 7,
-    sesionesRealizadas: 7,
+    sesionesProgramadas: 24,
+    sesionesRealizadas: 24,
     cumplimiento: "100%",
     puntualidadDocentes: "100%",
     cambiosDocente: 0,
     nnaAtendidos: 52,
-    horasProgramadas: 14,
-    horasRealizadas: 14,
+    horasProgramadas: 36,
+    horasRealizadas: 36,
     observacionGeneral: "Cumplimiento mensual del 100%. No se reportaron contingencias, cambios de docente ni novedades operativas que afectaran el desarrollo del proceso."
   },
 
@@ -56,8 +56,8 @@ const INFORME_DATA = {
       icono: "🎀",
       color: "#D43B8A",
       descripcion: "Trabajo de gimnasia, acrobacia, montaje coreografico, acondicionamiento fisico y preparacion para presentacion. Concentro la mayor cantidad de informacion cualitativa del periodo en las bitacoras docentes.",
-      sesionesProgramadas: 7,
-      sesionesRealizadas: 7,
+      sesionesProgramadas: 16,
+      sesionesRealizadas: 16,
       participantes: 41,
       avances: [
         "Inicio y consolidacion del montaje coreografico para la presentacion del 1 de agosto.",
@@ -76,8 +76,8 @@ const INFORME_DATA = {
       icono: "💃",
       color: "#6B3FA0",
       descripcion: "Continuidad del proceso formativo y permanencia del grupo durante el periodo.",
-      sesionesProgramadas: 7,
-      sesionesRealizadas: 7,
+      sesionesProgramadas: 8,
+      sesionesRealizadas: 8,
       participantes: 11,
       avances: [
         "Continuidad del proceso formativo evidenciada en las asistencias asociadas.",
