@@ -20,13 +20,13 @@ const INFORME_DATA = {
     cumplimiento: "100%",
     puntualidadDocentes: "100%",
     cambiosDocente: 0,
-    nnaAtendidos: 11,
+    nnaAtendidos: 52,
     horasProgramadas: 14,
     horasRealizadas: 14,
     observacionGeneral: "Cumplimiento mensual del 100%. No se reportaron contingencias, cambios de docente ni novedades operativas que afectaran el desarrollo del proceso."
   },
 
-  resumenEjecutivo: "Durante mayo de 2026 se dio continuidad al proceso formativo en la Fundacion San Antonio - GMMMC, con enfasis en el acompanamiento artistico, corporal y tecnico de los NNA. El periodo se caracterizo por el avance en el montaje coreografico proyectado para la presentacion del 1 de agosto, el fortalecimiento de habilidades gimnasticas y acrobaticas, y el seguimiento sistematico mediante asistencias, bitacoras, registros de puntualidad y evidencias. Se realizaron 7 sesiones (14 horas) con 11 NNA atendidos, cumplimiento del 100% y puntualidad docente del 100%.",
+  resumenEjecutivo: "Durante mayo de 2026 se dio continuidad al proceso formativo en la Fundacion San Antonio - GMMMC, con enfasis en el acompanamiento artistico, corporal y tecnico de los NNA. El periodo se caracterizo por el avance en el montaje coreografico proyectado para la presentacion del 1 de agosto, el fortalecimiento de habilidades gimnasticas y acrobaticas, y el seguimiento sistematico mediante asistencias, bitacoras, registros de puntualidad y evidencias. Se realizaron 7 sesiones (14 horas) con 52 NNA atendidos, cumplimiento del 100% y puntualidad docente del 100%.",
 
   avances: [
     "Inicio y consolidacion del montaje coreografico para la presentacion del 1 de agosto.",
@@ -58,7 +58,7 @@ const INFORME_DATA = {
       descripcion: "Trabajo de gimnasia, acrobacia, montaje coreografico, acondicionamiento fisico y preparacion para presentacion. Concentro la mayor cantidad de informacion cualitativa del periodo en las bitacoras docentes.",
       sesionesProgramadas: 7,
       sesionesRealizadas: 7,
-      participantes: 11,
+      participantes: 41,
       avances: [
         "Inicio y consolidacion del montaje coreografico para la presentacion del 1 de agosto.",
         "Habilidades basicas de gimnasia: rollos, rollos con giro, cangrejo, medialunas y arco.",
