@@ -26,7 +26,7 @@ const INFORME_DATA = {
     observacionGeneral: "Cumplimiento mensual del 100%. No se reportaron contingencias, cambios de docente ni novedades operativas que afectaran el desarrollo del proceso."
   },
 
-  resumenEjecutivo: "Durante mayo de 2026 se dio continuidad al proceso formativo en la Fundacion San Antonio - GMMMC, con enfasis en el acompanamiento artistico, corporal y tecnico de los NNA. El periodo se caracterizo por el avance en el montaje coreografico proyectado para la presentacion del 1 de agosto, el fortalecimiento de habilidades gimnasticas y acrobaticas, y el seguimiento sistematico mediante asistencias, bitacoras, registros de puntualidad y evidencias. Se realizaron 7 sesiones (14 horas) con 52 NNA atendidos, cumplimiento del 100% y puntualidad docente del 100%.",
+  resumenEjecutivo: "Durante mayo de 2026 se dio continuidad al proceso formativo en la Fundacion San Antonio - GMMMC, con enfasis en el acompanamiento artistico, corporal y tecnico de los NNA. El periodo se caracterizo por el avance en el montaje coreografico proyectado para la presentacion del 1 de agosto, el fortalecimiento de habilidades gimnasticas y acrobaticas, y el seguimiento sistematico mediante asistencias, bitacoras, registros de puntualidad y evidencias. Se realizaron 24 sesiones (36 horas) con 52 NNA atendidos, cumplimiento del 100% y puntualidad docente del 100%.",
 
   avances: [
     "Inicio y consolidacion del montaje coreografico para la presentacion del 1 de agosto.",
